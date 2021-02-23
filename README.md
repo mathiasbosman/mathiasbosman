@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome on my GitHub profile! Feel free to look around!
+
 <!--
 **mathiasbosman/mathiasbosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
