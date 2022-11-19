@@ -2,6 +2,8 @@
 
 Welcome on my GitHub profile! Feel free to look around!
 
+If you want to learn more about me you can checkout [mathiasbosman.be](https://mathiasbosman.be) or just checkout [the actual repo](https://github.com/mathiasbosman/mathiasbosman.github.io).
+
 <!--
 **mathiasbosman/mathiasbosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
